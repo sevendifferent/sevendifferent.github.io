@@ -28,7 +28,10 @@
 }
 .isi h1 {
 	font-weight: 100;
-	letter-spacing: 5pc;
+	letter-spacing: 5px;
+}
+.isi h1:first-child {
+	line-height: 1px;
 }
 @media (max-width: 767px){
 	.isi {
