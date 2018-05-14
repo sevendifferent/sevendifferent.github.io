@@ -8,6 +8,7 @@
 .footer {
 	background: rgb(0, 105, 92);
 	padding: 30px;
+	padding-bottom: 50px;
 }
 .footer * {
 	color: white !important;
