@@ -1,3 +1,6 @@
+body {
+	background: rgba(224, 242, 241, 0.5);
+}
 .besar,
 .footer h1 {
 	text-transform: uppercase;
@@ -18,9 +21,9 @@
 }
 .thumbnail {
 	border: none;
+	background: transparent;
 }
 .thumbnail img {
-	width: 100px;
 	max-width: 80%;
 }
 .isi {
