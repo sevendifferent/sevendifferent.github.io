@@ -18,3 +18,10 @@
 	width: 100px;
 	max-width: 80%;
 }
+.isi {
+	border: 1px solid rgb(0, 105, 92);
+	margin: 30px;
+	margin-bottom: 0;
+	padding: 30px;
+	color: rgb(0, 105, 92);
+}
