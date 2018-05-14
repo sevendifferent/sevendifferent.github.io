@@ -1,7 +1,7 @@
 $(function(){
 	$('.muncul').addClass("hidden").viewportChecker({
 		classToAdd: function(){
-			return 'visible animated rubberBand'
+			return 'visible animated bounce'
 		}
 	})
 })
