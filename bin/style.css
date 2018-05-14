@@ -30,8 +30,8 @@
 	font-weight: 100;
 	letter-spacing: 5px;
 }
-.isi h1:first-child {
-	line-height: 1px;
+.isi h1:first-child + h1 {
+	margin: 10px;
 }
 @media (max-width: 767px){
 	.isi {
