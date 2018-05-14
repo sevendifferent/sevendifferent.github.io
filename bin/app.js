@@ -1,8 +1,10 @@
 $(function(){
-	animasi = function(elemen, animasi){
+	animasi = function(elemen, efek){
 		$(elemen).addClass("hidden").viewportChecker({
-			classToAdd: 'visible animated '+animasi
+			classToAdd: function(){
+				return 'visible animated '+efek
+			}
 		})	
 	}
-	
+	animasi('.muncul', 'rubberBand')
 })

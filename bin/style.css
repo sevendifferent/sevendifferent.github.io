@@ -1,3 +1,9 @@
+.hidden {
+	opacity: 0;
+}
+.visible {
+	opacity: 1;
+}
 body {
 	background: rgba(224, 242, 241, 0.5);
 }
