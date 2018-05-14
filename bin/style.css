@@ -5,3 +5,16 @@
 .footer {
 	background: rgb(0, 105, 92);
 }
+.footer * {
+	color: white !important;
+}
+.footer a {
+	text-decoration: underline;
+}
+.thumbnail {
+	border: none;
+}
+.thumbnail img {
+	width: 100px;
+	max-width: 80%;
+}
