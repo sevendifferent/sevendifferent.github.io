@@ -2,8 +2,12 @@
 .footer h1 {
 	text-transform: uppercase;
 }
+.footer h1 {
+	font-size: 20px;
+}
 .footer {
 	background: rgb(0, 105, 92);
+	padding: 30px;
 }
 .footer * {
 	color: white !important;
