@@ -23,8 +23,12 @@
 	border-bottom: none;
 	margin: 30px;
 	margin-bottom: 0;
-	padding: 30px 50px;
+	padding: 30px 80px 50px;
 	color: rgb(0, 105, 92);
+}
+.isi h1 {
+	font-weight: 100;
+	letter-spacing: 5pc;
 }
 @media (max-width: 767px){
 	.isi {
