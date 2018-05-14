@@ -26,3 +26,10 @@
 	padding: 30px;
 	color: rgb(0, 105, 92);
 }
+@media (max-width: 767px){
+	.isi {
+		margin: 10px;
+		margin-bottom: 0;
+		padding: 10px;
+	}
+}
